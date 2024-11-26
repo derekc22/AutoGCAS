@@ -24,13 +24,13 @@ function reset_all_test_datarefs()
     if not allTestDataRefsReset then
 
         --ailerons
-        -- set("sim/flightmodel/controls/lail1def", 0) -- wtf: leftAileron (only rolls left, stops  rolling after a certain bank angle)
+        -- set("sim/flightmodel/controls/lail1def", 0) --: leftAileron (only rolls left, stops  rolling after a certain bank angle)
         -- set("sim/flightmodel/controls/rail1def", 0) -- good: rightAileron (rolls perfectly )
         -- set("sim/flightmodel2/controls/roll_ratio", 0) -- bad
-        -- set("sim/flightmodel/controls/wing1l_ail1def", 0) -- wtf
-        -- set("sim/flightmodel/controls/wing1l_ail2def", 0) -- wtf
+        -- set("sim/flightmodel/controls/wing1l_ail1def", 0) --
+        -- set("sim/flightmodel/controls/wing1l_ail2def", 0) --
         -- set("sim/flightmodel/controls/wing2r_ail1def", 0) -- good
-        -- set("sim/flightmodel/controls/wing2r_ail2def", 0) -- wtf
+        -- set("sim/flightmodel/controls/wing2r_ail2def", 0) --
 
         -- elevator
         -- set("sim/flightmodel/controls/hstab1_elv1def", 0) -- good
