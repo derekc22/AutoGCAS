@@ -3,9 +3,7 @@
 
 ## Overview
 
-This project implements a PID-based flight control system using MATLAB and Lua, targeting aileron and elevator actuation in the X-Plane simulation environment. The control logic supports both offline simulation and real-time integration. It is designed around modular PID tuning, transient analysis, and real-time actuator control based on feedback.
-
-The MATLAB scripts simulate and generate control commands using recorded or live aircraft response data. The Lua script interfaces with X-Plane via datarefs to control aircraft surfaces in real time.
+This project implements a PID-based flight control system using MATLAB and Lua, targeting aileron and elevator actuation in the X-Plane simulation environment. The control logic supports both offline simulation and real-time integration. The MATLAB scripts simulate and generate control commands using recorded or live aircraft response data. The Lua script interfaces with X-Plane via datarefs to control aircraft surfaces in real time.
 
 ## Project Structure
 
