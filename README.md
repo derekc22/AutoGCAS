@@ -1,5 +1,5 @@
 
-# AutoGCAS - Automatic Ground Collision Avoidance System
+# AutoTCAS - Automatic Terrain Collision Avoidance System
 
 ## Overview
 
